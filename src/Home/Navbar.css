@@ -1,0 +1,51 @@
+.navbar{
+    display: flex;
+    max-height: 150px;
+    background: black;
+    color: white;
+    top: 0;
+    position: sticky;
+    z-index: 15;
+}
+
+.logo img{
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+    max-height: 70px;
+    max-width: 200px;
+    margin-left: 40px;
+}
+.heading h1{
+    font-variant: small-caps;
+}
+.navbar span{
+    right: 0;
+    margin-right: 150px;
+    position: absolute;
+    color: #00A8E1;
+}
+.menuButton button{
+    margin-right: 40px;
+    background-color: #000000;
+    color: white;
+    border-radius: 7px;
+    padding: 0px 10px;
+}
+@media only screen and (max-width: 650px) {
+    .heading{
+        display: none;
+    }
+    
+}
+
+@media (min-width: 650px) and (max-width: 900px) {
+    .navbar span{
+        display: none;
+    }
+}
+@media only screen and (max-width: 360px){
+    .navbar span{
+        display: none;
+    }
+} 

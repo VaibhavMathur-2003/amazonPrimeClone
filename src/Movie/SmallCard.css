@@ -1,0 +1,27 @@
+.container-xl{
+    margin-top: 50px;
+    color: white;
+}
+.smallImg img{
+    max-height: 180px;
+    height: auto;
+    min-height: 50px;
+    width: 100%;
+    border-radius: 20px;
+    opacity: 1;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 40px 58px -16px,
+    rgba(0, 0, 0, 0.72) 0px 30px 22px -10px ;
+}
+.smallImg img:hover{
+    transform: scale(1.04);
+    /* border: 3px white solid; */
+    box-shadow: rgba(255, 255, 255, 0.8) 0px 40px 58px -16px,
+    rgba(255, 255, 255, 0.72) 0px 30px 22px -10px ;
+}
+@media only screen and (max-width: 770px){
+    .smallImg img{
+        min-height: 150px;
+        min-width: 200px;
+    }
+}

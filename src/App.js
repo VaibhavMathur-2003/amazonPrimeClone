@@ -1,24 +1,33 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { BrowserRouter as Router, Route, Switch, useParams} from "react-router-dom";
+import Carousal from './Home/Carousal';
+import Navbar from './Home/Navbar';
+import Content from './Movie/Content';
+import SmallCard from './Movie/SmallCard';
+import Params from './Detail/Params';
+import { Parallax, ParallaxLayer } from '@react-spring/parallax';
+
+
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+   <Router>
+     <Navbar/>
+     <Switch>
+       <Route exact path="/">
+        <Carousal/>
+        <SmallCard/>
+        <Content/>
+       </Route>
+       <Route exact path="/:pathname">
+         <Params/>
+       </Route>
+     </Switch>
+   </Router>
+    </>
   );
 }
 

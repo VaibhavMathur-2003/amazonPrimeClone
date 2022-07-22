@@ -1,0 +1,29 @@
+.content {
+  color: white;
+  max-width: 1400px;
+  margin: 70px auto;
+  width: 100%;
+}
+.movies {
+  margin: 20px 0px;
+  margin-bottom: 100px;
+}
+.music {
+  margin: 20px 0px;
+  margin-bottom: 100px;
+}
+.banner img {
+  margin-bottom: 100px;
+  max-height: 230px;
+  width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.8) 0px 40px 58px -16px,
+    rgba(0, 0, 0, 0.72) 0px 30px 22px -10px;
+}
+.content h1 {
+  margin-bottom: 20px;
+  text-align: center;
+  color: rgb(0, 110, 255);
+  font-family: ui-monospace;
+  font-size: 50px;
+}
+
