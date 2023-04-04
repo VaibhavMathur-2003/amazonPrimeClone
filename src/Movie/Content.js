@@ -6,7 +6,6 @@ import movies from "./movie.json";
 import music from "./music.json";
 import { Link } from "react-router-dom";
 import sports from "./sports.json"
-import { Parallax, ParallaxLayer } from '@react-spring/parallax'
 
 function Content() {
   
