@@ -12,7 +12,7 @@ const Params = () => {
         <>
           {
             movie
-              .filter((i) => i.id == pathname)
+              .filter((i) => i.id === pathname)
               .map((i) => (
                 <div key={i.id}>
                     <Detail {...i}/>
@@ -20,14 +20,14 @@ const Params = () => {
               ))}
               {
             music
-              .filter((i) => i.id == pathname)
+              .filter((i) => i.id === pathname)
               .map((i) => (
                 <div key={i.id}>
                     <Detail {...i}/>
                 </div>
               ))}
               {sports
-              .filter((i) => i.id == pathname)
+              .filter((i) => i.id === pathname)
               .map((i) => (
                 <div key={i.id}>
                     <Detail {...i}/>
