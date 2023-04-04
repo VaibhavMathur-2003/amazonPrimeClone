@@ -1,12 +1,11 @@
 
 import './App.css';
-import { BrowserRouter as Router, Route, Switch, useParams} from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import Carousal from './Home/Carousal';
 import Navbar from './Home/Navbar';
 import Content from './Movie/Content';
 import SmallCard from './Movie/SmallCard';
 import Params from './Detail/Params';
-import { Parallax, ParallaxLayer } from '@react-spring/parallax';
 
 
 
