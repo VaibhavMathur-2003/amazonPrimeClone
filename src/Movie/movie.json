@@ -1,7 +1,7 @@
 [{
     "id":"movie1",
-    "title": "Dawn of the Planet of the Apes",
-    "image": "http://api.androidhive.info/json/movies/1.jpg",
+    "title": "Planet of the Apes",
+    "image": "https://c4.wallpaperflare.com/wallpaper/365/331/631/planet-of-the-apes-movies-movie-poster-wallpaper-preview.jpg",
     "rating": 8.3,
     "releaseYear": 2014,
     "genre": ["Action ", "Drama ", "Sci-Fi "]
@@ -9,23 +9,23 @@
 {
     "id":"movie2",
     "title": "District 9",
-    "image": "http://api.androidhive.info/json/movies/2.jpg",
+    "image": "https://picfiles.alphacoders.com/147/thumb-147334.jpg",
     "rating": 8,
     "releaseYear": 2009,
     "genre": ["Action ", "Sci-Fi ", "Thriller "]
 },
 {
     "id":"movie3",
-    "title": "Transformers: Age of Extinction",
-    "image": "http://api.androidhive.info/json/movies/3.jpg",
+    "title": "Transformers",
+    "image": "https://c4.wallpaperflare.com/wallpaper/48/674/457/transformers-4-age-of-extinction-wallpaper-preview.jpg",
     "rating": 6.3,
     "releaseYear": 2014,
     "genre": ["Action ", "Adventure ", "Sci-Fi "]
 },
 {
     "id":"movie4",
-    "title": "X-Men: Days of Future Past",
-    "image": "http://api.androidhive.info/json/movies/4.jpg",
+    "title": "X-Men",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBlb4qH5J6QQI09M76zGICbaK-UJ0ssGE3dEq8VsLyVg-3V7oR8TPKS-VH7PTgHLz8hAc&usqp=CAU",
     "rating": 8.4,
     "releaseYear": 2014,
     "genre": ["Action ", "Sci-Fi ", "Thriller "]
@@ -33,7 +33,7 @@
 {
     "id":"movie5",
     "title": "The Machinist",
-    "image": "http://api.androidhive.info/json/movies/5.jpg",
+    "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51mQmZl5BYL._AC_SY445_.jpg",
     "rating": 7.8,
     "releaseYear": 2004,
     "genre": ["Drama ", "Thriller "]
@@ -41,7 +41,7 @@
 {
     "id":"movie6",
     "title": "The Last Samurai",
-    "image": "http://api.androidhive.info/json/movies/6.jpg",
+    "image": "https://c4.wallpaperflare.com/wallpaper/265/32/42/movies-the-last-samurai-samurai-wallpaper-preview.jpg",
     "rating": 7.7,
     "releaseYear": 2003,
     "genre": ["Action ", "Drama ", "History "]
@@ -49,7 +49,7 @@
 {
     "id":"movie7",
     "title": "The Amazing Spider-Man 2",
-    "image": "http://api.androidhive.info/json/movies/7.jpg",
+    "image": "https://wallpapercave.com/wp/wp1911185.jpg",
     "rating": 7.3,
     "releaseYear": 2014,
     "genre": ["Action ", "Adventure ", "Fantasy "]
@@ -57,7 +57,7 @@
 {
     "id":"movie8",
     "title": "Tangled",
-    "image": "http://api.androidhive.info/json/movies/8.jpg",
+    "image": "https://wallpapers.com/images/featured/tf13i06uw7o98ued.jpg",
     "rating": 7.9,
     "releaseYear": 2010,
     "genre": ["Action ", "Drama ", "Sci-Fi "]
@@ -65,7 +65,7 @@
 {
     "id":"movie9",
     "title": "Rush",
-    "image": "http://api.androidhive.info/json/movies/9.jpg",
+    "image": "https://free4kwallpapers.com/uploads/originals/2015/12/10/rush-movie-wallpaper.jpg",
     "rating": 8.3,
     "releaseYear": 2013,
     "genre": ["Animation ", "Comedy ", "Family "]
@@ -73,15 +73,15 @@
 {
     "id":"movie10",
     "title": "Drag Me to Hell",
-    "image": "http://api.androidhive.info/json/movies/10.jpg",
+    "image": "https://wallpapercave.com/wp/wp10135720.jpg",
     "rating": 6.7,
     "releaseYear": 2009,
     "genre": ["Horror ", "Thriller "]
 },
 {
     "id":"movie11",
-    "title": "Despicable Me 2",
-    "image": "http://api.androidhive.info/json/movies/11.jpg",
+    "title": "Despicable Me",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0I9fws4ueFTQo1mYP7Lt9FCu0cUJVSbIqYg&usqp=CAU",
     "rating": 7.6,
     "releaseYear": 2013,
     "genre": ["Animation ", "Comedy ", "Family "]
@@ -89,7 +89,7 @@
 {
     "id":"movie12",
     "title": "Kill Bill: Vol. 1",
-    "image": "http://api.androidhive.info/json/movies/12.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx0QUAwRayMR46kRGuNk64AWQEqov0vxgwHA&usqp=CAU",
     "rating": 8.2,
     "releaseYear": 2003,
     "genre": ["Action ", "Crime "]
@@ -97,7 +97,7 @@
 {
     "id":"movie13",
     "title": "A Bug's Life",
-    "image": "http://api.androidhive.info/json/movies/13.jpg",
+    "image": "https://w0.peakpx.com/wallpaper/262/452/HD-wallpaper-a-bug-s-life-comedy-bugs-movie-life.jpg",
     "rating": 7.2,
     "releaseYear": 1998,
     "genre": ["Animation ", "Adventure ", "Comedy "]
@@ -105,7 +105,7 @@
 {
     "id":"movie14",
     "title": "Life of Brian",
-    "image": "http://api.androidhive.info/json/movies/14.jpg",
+    "image": "https://i.pinimg.com/474x/a2/94/d1/a294d139eee3478ac6cd67ea2d1bdb30--michael-palin-michael-okeefe.jpg",
     "rating": 8.9,
     "releaseYear": 1972,
     "genre": ["Comedy "]
@@ -113,7 +113,7 @@
 {
     "id":"movie15",
     "title": "How to Train Your Dragon",
-    "image": "http://api.androidhive.info/json/movies/15.jpg",
+    "image": "https://c4.wallpaperflare.com/wallpaper/18/469/250/how-to-train-your-dragon-2-dragons-hd-wallpaper-wallpaper-preview.jpg",
     "rating": 8.2,
     "releaseYear": 2010,
     "genre": ["Animation ", "Adventure ", "Family "]

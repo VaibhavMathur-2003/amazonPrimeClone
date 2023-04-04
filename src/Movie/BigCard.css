@@ -16,7 +16,7 @@
 }
 .title{
     text-align: center;
-    max-height: 30px;
+    min-height: 60px;
 }
 .title h4{
     display: inline-block;
