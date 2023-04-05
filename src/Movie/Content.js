@@ -15,7 +15,7 @@ function Content() {
     autoplay: true,
     infinite: true,
     speed: 2500,
-    slidesToShow: (x && 4) || 2,
+    slidesToShow: (x && 4) || 1,
     slidesToScroll: 2,
     arrows: false,
   };

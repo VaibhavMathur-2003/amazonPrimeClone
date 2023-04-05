@@ -2,6 +2,7 @@
 .bigImg img{
     max-height: 250px;
     width: 90%;
+    max-width: 350px;
     margin-bottom: 40px;
     display: flex;
     box-shadow: rgba(0, 0, 0, 0.8) 0px 40px 58px -16px,
